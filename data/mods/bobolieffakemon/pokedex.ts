@@ -550,7 +550,7 @@ export const Pokedex: {[k: string]: ModdednameData} = {
         num: 1048,
           name: "Androsmos",
           types: ["Electric", "Fairy"],
-          gender: ["M", "F"],
+          gender: {M: 0.5, F: 0.5},
           baseStats: {hp: 70, atk: 70, def: 90, spa: 110, spd: 110, spe: 50},
           abilities: {0: "Plus", 1: "Mold Breaker", H: "Universal Charm"},
           heightm: 1.6,
