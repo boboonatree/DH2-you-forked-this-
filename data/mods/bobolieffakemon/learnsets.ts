@@ -3979,5 +3979,8 @@ teranim: {learnset: {
 	toxic: ["8L1"],
 	yawn: ["8L1"],
 	zenheadbutt: ["8L1"],
-}},	
+}},
+bloomorbid: {learnset: {
+    tackle: ["8L1"],
+}},
 };
